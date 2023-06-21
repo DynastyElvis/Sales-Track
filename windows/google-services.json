@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364029906261",
+    "project_id": "sales-tracker-dacab",
+    "storage_bucket": "sales-tracker-dacab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364029906261:android:a6a975f73d7112fd75b3dc",
+        "android_client_info": {
+          "package_name": "pro.bitanon.tracker.sales.sales_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364029906261-p887oe5gcqhreb5gtksfj7kcueevdlm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.bitanon.tracker.sales.sales_tracker",
+            "certificate_hash": "07f8e94489e4abbcb88586b37d0119b8c3b26769"
+          }
+        },
+        {
+          "client_id": "364029906261-6pf7m50982lokf6sghv2ni8npa04nskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbFauHM5_Dr8A2-ud__oF_qpbZTxbnoqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364029906261-6pf7m50982lokf6sghv2ni8npa04nskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
